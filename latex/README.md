@@ -20,7 +20,7 @@ Latex -- это ~~такая штука~~ система компьютерно�
 3. Простенькая среда разработки `C:\Program Files (x86)\MiKTeX 2.9\miktex\bin\texworks.exe`
 4. Более удобная среда разработки TeXStudio -- [тут](https://www.texstudio.org/)
 
-### Установка под Линукс
+### Установка под Linux
 1. `sudo apt install texlive-full cm-super fonts-cmu` (чтобы из командной строки работали pdflatex, xelatex)
 2. `sudo apt install texworks` (чтобы работала среда texworks)
 3. [Также можно поставить TeXStudio](http://ubuntuhandbook.org/index.php/2019/12/how-to-install-texstudio-2-12-18-in-ubuntu-19-10-20-04/) 
